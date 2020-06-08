@@ -1,2 +1,2 @@
 # hello-word
-Just another repository
+Dies ist meine Uebung zum Seminar Digital Humanities.
